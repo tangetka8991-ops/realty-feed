@@ -1,0 +1,423 @@
+<yml_catalog date="2026-05-17 12:10">
+<shop>
+<name>Магазин Новостроек</name>
+<company>ООО «М2К»</company>
+<url>https://magazinnovostroek.su/</url>
+<email>kantemir.mgzkv@gmail.com</email>
+<currencies>
+<currency id="RUR" rate="1"/>
+</currencies>
+<categories>
+<category id="1">Квартира</category>
+<category id="10" parentId="1">Студия</category>
+<category id="11" parentId="1">1-комнатная</category>
+<category id="12" parentId="1">2-комнатная</category>
+<category id="13" parentId="1">3-комнатная</category>
+<category id="14" parentId="1">4-к и более</category>
+<category id="101">Жилой комплекс</category>
+</categories>
+<sets>
+<set id="1">
+<name>ЖК Екатерининский. Купить квартиру в Ростове-на-Дону</name>
+<url>https://magazinnovostroek.su/ekaterininskiy</url>
+</set>
+<set id="2">
+<name>ЖК В центре города. Купить квартиру в Ростове-на-Дону</name>
+<url>https://magazinnovostroek.su/gkvcentre</url>
+</set>
+<set id="3">
+<name>ЖК Новый Горизонт. Купить квартиру в Ростове-на-Дону</name>
+<url>https://magazinnovostroek.su/noviygoziront</url>
+</set>
+<set id="4">
+<name>ЖК Западные Аллеи. Купить квартиру в Ростове-на-Дону</name>
+<url>https://magazinnovostroek.su/zapadnieallei</url>
+</set>
+<set id="5">
+<name>ЖК Frame. Купить квартиру в Ростове-на-Дону</name>
+<url>https://magazinnovostroek.su/frame</url>
+</set>
+<set id="6">
+<name>ЖК Состояние. Купить квартиру в Ростове-на-Дону</name>
+<url>https://magazinnovostroek.su/sostoynie</url>
+</set>
+<set id="7">
+<name>ЖК 61 Квартал. Купить квартиру в Ростове-на-Дону</name>
+<url>https://magazinnovostroek.su/61kvartal</url>
+</set>
+<set id="8">
+<name>ЖК Левобережье. Купить квартиру в Ростове-на-Дону</name>
+<url>https://magazinnovostroek.su/levoberegie</url>
+</set>
+<set id="9">
+<name>ЖК Текучев. Купить квартиру в Ростове-на-Дону</name>
+<url>https://magazinnovostroek.su/tekuchev</url>
+</set>
+<set id="10">
+<name>ЖК Gray. Купить квартиру в Ростове-на-Дону</name>
+<url>https://magazinnovostroek.su/gray</url>
+</set>
+<set id="11">
+<name>ЖК Два Капитана. Купить квартиру в Ростове-на-Дону</name>
+<url>https://magazinnovostroek.su/dvacapitana</url>
+</set>
+<set id="12">
+<name>ЖК 1799. Купить квартиру в Ростове-на-Дону</name>
+<url>https://magazinnovostroek.su/1799</url>
+</set>
+<set id="13">
+<name>ЖК Сокольники. Купить квартиру в Ростове-на-Дону</name>
+<url>https://magazinnovostroek.su/sokolniki</url>
+</set>
+<set id="14">
+<name>ЖК Собрание. Купить квартиру в Ростове-на-Дону</name>
+<url>https://magazinnovostroek.su/sobranie</url>
+</set>
+<set id="15">
+<name>ЖК Four Premiers. Купить квартиру в Ростове-на-Дону</name>
+<url>https://magazinnovostroek.su/fourpremiers</url>
+</set>
+<set id="16">
+<name>ЖК Академия. Купить квартиру в Ростове-на-Дону</name>
+<url>https://magazinnovostroek.su/academia</url>
+</set>
+<set id="17">
+<name>ЖК Флора. Купить квартиру в Ростове-на-Дону</name>
+<url>https://magazinnovostroek.su/flora</url>
+</set>
+<set id="18">
+<name>ЖК Октябрь парк. Купить квартиру в Ростове-на-Дону</name>
+<url>https://magazinnovostroek.su/oktyabr-park</url>
+</set>
+<set id="19">
+<name>ЖК Ботаника. Купить квартиру в Ростове-на-Дону</name>
+<url>https://magazinnovostroek.su/botanika</url>
+</set>
+</sets>
+<offers>
+<!--  1  -->
+<offer id="ekaterininskiy">
+<name>Студия, 27 м²</name>
+<vendor>ООО «М2К»</vendor>
+<url>https://magazinnovostroek.su/ekaterininskiy</url>
+<price>2800000</price>
+<currencyId>RUR</currencyId>
+<categoryId>10</categoryId>
+<set-ids>1</set-ids>
+<picture>https://static.tildacdn.com/tild3836-3237-4139-b664-313235636463/1_1.jpg</picture>
+<description>ЖК Екатерининский. Студия 27 м² в ЖК комфорт-класса. 5 домов уже сданы. развитая инфраструктура, поликлиника на территории, подземный паркинг. ж/д район, 10 мин до центра.</description>
+<param name="Конверсия">1</param>
+<param name="Тип предложения">Продажа</param>
+<param name="Число комнат">0</param>
+<param name="Площадь">27</param>
+<param name="Адрес">ул. Магнитогорская, 2</param>
+</offer>
+<!--  2  -->
+<offer id="gkvcentre">
+<name>Студия, 25 м²</name>
+<vendor>ООО «М2К»</vendor>
+<url>https://magazinnovostroek.su/gkvcentre</url>
+<price>2600000</price>
+<currencyId>RUR</currencyId>
+<categoryId>10</categoryId>
+<set-ids>2</set-ids>
+<picture>https://optim.tildacdn.com/tild3630-3064-4231-a230-313236386135/-/format/webp/1bce8a5d78b08f213a35.jpg</picture>
+<description>ЖК В центре города. Студия 25 м² в историческом центре. рядом парки, ТЦ Горизонт, аквапарк Н2О. ремонт в подарок, ипотека от 4.7%.</description>
+<param name="Конверсия">1</param>
+<param name="Тип предложения">Продажа</param>
+<param name="Число комнат">0</param>
+<param name="Площадь">25</param>
+<param name="Адрес">ул. 26-я линия, 35Б</param>
+</offer>
+<!--  3  -->
+<offer id="gorizont">
+<name>1-комнатная, 33 м²</name>
+<vendor>ООО «М2К»</vendor>
+<url>https://magazinnovostroek.su/noviygoziront</url>
+<price>3500000</price>
+<currencyId>RUR</currencyId>
+<categoryId>11</categoryId>
+<set-ids>3</set-ids>
+<picture>https://optim.tildacdn.com/tild6430-3864-4533-b462-376261363837/-/format/webp/5yoqs6vqe6zwm_1cewgy.jpeg</picture>
+<description>ЖК Новый Горизонт. 1-комн. 33 м² в эко-квартале у рощи СКА. кирпичные дома, муниципальный детсад, аквапарк Н2О в 5 мин. скидка до 12 000 ₽/м².</description>
+<param name="Конверсия">1</param>
+<param name="Тип предложения">Продажа</param>
+<param name="Число комнат">1</param>
+<param name="Площадь">33</param>
+<param name="Адрес">ул. Тибетская, 1В</param>
+</offer>
+<!--  4  -->
+<offer id="zapad">
+<name>Студия, 23 м²</name>
+<vendor>ООО «М2К»</vendor>
+<url>https://magazinnovostroek.su/zapadnieallei</url>
+<price>2700000</price>
+<currencyId>RUR</currencyId>
+<categoryId>10</categoryId>
+<set-ids>4</set-ids>
+<picture>https://static.tildacdn.com/tild3831-6165-4638-a132-353964333632/g07emr7dd0m6u_hxnfo7.jpeg</picture>
+<description>ЖК Западные Аллеи. Студия 23 м² в бизнес-классе. двор без машин, 2 детсада, школа на территории. подземный паркинг с лифтом на этаж.</description>
+<param name="Конверсия">1</param>
+<param name="Тип предложения">Продажа</param>
+<param name="Число комнат">0</param>
+<param name="Площадь">23</param>
+<param name="Адрес">ул. 26 линия, 35Б</param>
+</offer>
+<!--  5  -->
+<offer id="frame">
+<name>1-комнатная, 34 м²</name>
+<vendor>ГК «АльфаСтройИнвест»</vendor>
+<url>https://magazinnovostroek.su/frame</url>
+<price>3200000</price>
+<currencyId>RUR</currencyId>
+<categoryId>11</categoryId>
+<set-ids>5</set-ids>
+<picture>https://static.tildacdn.com/tild3661-3934-4438-a463-326631623063/zhk-frame-zorge-11-f.jpeg</picture>
+<description>ЖК Frame. 1-комн. 34 м² у ЮФУ. каркасно-монолит, витражные окна, подземный паркинг. школа на 2500 мест для резидентов. сдача май 2025.</description>
+<param name="Конверсия">1</param>
+<param name="Тип предложения">Продажа</param>
+<param name="Число комнат">1</param>
+<param name="Площадь">34</param>
+<param name="Адрес">ул. Зорге, 11</param>
+</offer>
+<!--  6  -->
+<offer id="sostoynie">
+<name>2-комнатная, 40 м²</name>
+<vendor>ООО «М2К»</vendor>
+<url>https://magazinnovostroek.su/sostoynie</url>
+<price>5200000</price>
+<currencyId>RUR</currencyId>
+<categoryId>12</categoryId>
+<set-ids>6</set-ids>
+<picture>https://optim.tildacdn.com/tild6363-6433-4735-a464-653465313062/-/format/webp/009.png</picture>
+<description>ЖК Состояние. Евро-2к 40 м² в бизнес-классе. умный дом, видеодомофон, дизайнерские лобби. мультиформатный проект для независимых.</description>
+<param name="Конверсия">1</param>
+<param name="Тип предложения">Продажа</param>
+<param name="Число комнат">2</param>
+<param name="Площадь">40</param>
+<param name="Адрес">Советский район</param>
+</offer>
+<!--  7  -->
+<offer id="61kvartal">
+<name>1-комнатная, 28 м²</name>
+<vendor>ЮгСтройИнвест</vendor>
+<url>https://magazinnovostroek.su/61kvartal</url>
+<price>2900000</price>
+<currencyId>RUR</currencyId>
+<categoryId>11</categoryId>
+<set-ids>7</set-ids>
+<picture>https://static.tildacdn.com/tild3539-3062-4762-b337-613862323337/_24-04-2023_20_03_28.jpg</picture>
+<description>ЖК 61 Квартал. 1-комн. 28 м² в комфорт-классе. магазины и аптеки на территории, развитая инфраструктура. практичность и уют.</description>
+<param name="Конверсия">1</param>
+<param name="Тип предложения">Продажа</param>
+<param name="Число комнат">1</param>
+<param name="Площадь">28</param>
+<param name="Адрес">Пролетарский район</param>
+</offer>
+<!--  8  -->
+<offer id="m2k_levoberegie_1room_32">
+<name>1-комнатная, 32 м²</name>
+<vendor>ЮгСтройИнвест</vendor>
+<url>https://magazinnovostroek.su/levoberegie</url>
+<price>3100000</price>
+<currencyId>RUR</currencyId>
+<categoryId>11</categoryId>
+<set-ids>8</set-ids>
+<picture>https://optim.tildacdn.com/tild3133-3263-4335-a563-663636356230/-/resize/660x/-/format/webp/photo.jpg</picture>
+<description>ЖК Левобережье. 1-комн. 32 м² у реки. ипотека 0.1% на 1-2 года, без первоначального взноса. скидка до 5000 ₽/м² на отдельные лоты.</description>
+<param name="Конверсия">1</param>
+<param name="Тип предложения">Продажа</param>
+<param name="Число комнат">1</param>
+<param name="Площадь">32</param>
+<param name="Адрес">Кировский район</param>
+</offer>
+<!--  9  -->
+<offer id="tekuchev">
+<name>Студия, 18 м²</name>
+<vendor>Неометрия</vendor>
+<url>https://magazinnovostroek.su/tekuchev</url>
+<price>2400000</price>
+<currencyId>RUR</currencyId>
+<categoryId>10</categoryId>
+<set-ids>9</set-ids>
+<picture>https://optim.tildacdn.com/tild3433-3562-4438-a136-636538333030/-/cover/500x500/center/center/-/format/webp/taif7l7bvseoptdsmp7c.jpg</picture>
+<description>ЖК Текучев. Студия 18 м² у парка Островского. монолит-каркас, 3 лифта в секции, собственная котельная. ипотека за 1 рубль.</description>
+<param name="Конверсия">1</param>
+<param name="Тип предложения">Продажа</param>
+<param name="Число комнат">0</param>
+<param name="Площадь">18</param>
+<param name="Адрес">ул. Текучева, 370/2</param>
+</offer>
+<!--  10  -->
+<offer id="gray">
+<name>Студия, 22 м²</name>
+<vendor>АльфаСтройИнвест</vendor>
+<url>https://magazinnovostroek.su/gray</url>
+<price>2500000</price>
+<currencyId>RUR</currencyId>
+<categoryId>10</categoryId>
+<set-ids>10</set-ids>
+<picture>https://optim.tildacdn.com/tild3863-6635-4339-b331-396637343532/-/format/webp/17_1.jpg</picture>
+<description>ЖК Gray. Студия 22 м² в Левенцовском. рядом ТЦ Золотой Вавилон, парк, поликлиника. двор с ворк-аут зоной и мангальными беседками.</description>
+<param name="Конверсия">1</param>
+<param name="Тип предложения">Продажа</param>
+<param name="Число комнат">0</param>
+<param name="Площадь">22</param>
+<param name="Адрес">Левенцовский район</param>
+</offer>
+<!--  11  -->
+<offer id="dvacapitana">
+<name>2-комнатная, 65 м²</name>
+<vendor>ООО «М2К»</vendor>
+<url>https://magazinnovostroek.su/dvacapitana</url>
+<price>10000000</price>
+<currencyId>RUR</currencyId>
+<categoryId>12</categoryId>
+<set-ids>11</set-ids>
+<picture>https://optim.tildacdn.com/tild3133-6634-4865-b033-656161316238/-/cover/560x420/center/center/-/format/webp/zhk-dva-kapitana-fot.jpeg</picture>
+<description>ЖК Два Капитана. 2-комн. 65 м² элит-класса с видом на Дон. алюминиевое остекление, террасы, 4 лифта на 83 квартиры. отказ от газа для безопасности.</description>
+<param name="Конверсия">1</param>
+<param name="Тип предложения">Продажа</param>
+<param name="Число комнат">2</param>
+<param name="Площадь">65</param>
+<param name="Адрес">Кировский район</param>
+</offer>
+<!--  12  -->
+<offer id="1799">
+<name>1-комнатная, 29 м²</name>
+<vendor>ООО «М2К»</vendor>
+<url>https://magazinnovostroek.su/1799</url>
+<price>5900000</price>
+<currencyId>RUR</currencyId>
+<categoryId>11</categoryId>
+<set-ids>12</set-ids>
+<picture>https://optim.tildacdn.com/tild3531-6333-4539-a332-366665626230/-/resize/660x/-/format/webp/XXXL_1.webp</picture>
+<description>ЖК 1799. 1-комн. 29 м² в клубном квартале бизнес-класса на Пушкинской. приватная территория 2,5 га, умный дом, авторская отделка.</description>
+<param name="Конверсия">1</param>
+<param name="Тип предложения">Продажа</param>
+<param name="Число комнат">1</param>
+<param name="Площадь">29</param>
+<param name="Адрес">ул. Пушкинская</param>
+</offer>
+<!--  13  -->
+<offer id="sokolniki">
+<name>1-комнатная, 37 м²</name>
+<vendor>ООО «М2К»</vendor>
+<url>https://magazinnovostroek.su/sokolniki</url>
+<price>3400000</price>
+<currencyId>RUR</currencyId>
+<categoryId>11</categoryId>
+<set-ids>13</set-ids>
+<picture>https://optim.tildacdn.com/tild3866-3831-4361-b133-663763303636/-/format/webp/XXXL_3.webp</picture>
+<description>ЖК Сокольники. 1-комн. 37 м² в зелёном оазисе. панорамное остекление, детсад и школа на территории, ворк-аут зона. концепция «город в городе».</description>
+<param name="Конверсия">1</param>
+<param name="Тип предложения">Продажа</param>
+<param name="Число комнат">1</param>
+<param name="Площадь">37</param>
+<param name="Адрес">Левенцовский район</param>
+</offer>
+<!--  14  -->
+<offer id="sobranie">
+<name>1-комнатная, 35 м²</name>
+<vendor>ООО «М2К»</vendor>
+<url>https://magazinnovostroek.su/sobranie</url>
+<price>4500000</price>
+<currencyId>RUR</currencyId>
+<categoryId>11</categoryId>
+<set-ids>14</set-ids>
+<picture>https://optim.tildacdn.com/tild3866-3831-4361-b133-663763303636/-/format/webp/XXXL_3.webp</picture>
+<description>ЖК Собрание. 1-комн. 35 м² в бизнес-классе. закрытая территория, консьерж-сервис, подземный паркинг. центр города, пешая доступность к инфраструктуре.</description>
+<param name="Конверсия">1</param>
+<param name="Тип предложения">Продажа</param>
+<param name="Число комнат">1</param>
+<param name="Площадь">35</param>
+<param name="Адрес">Центральный район</param>
+</offer>
+<!--  15  -->
+<offer id="m2k_fourpremiers_1room_35">
+<name>1-комнатная, 35 м²</name>
+<vendor>ООО «М2К»</vendor>
+<url>https://magazinnovostroek.su/fourpremiers</url>
+<price>5000000</price>
+<currencyId>RUR</currencyId>
+<categoryId>11</categoryId>
+<set-ids>15</set-ids>
+<picture>https://static.tildacdn.com/tild3865-3061-4664-b661-616433633263/04_1_-_Photo.jpg</picture>
+<description>ЖК Four Premiers. 1-комн. 35 м² в стиле лофт. двор без машин, фитнес-зал, кафе, обзорная терраса на крыше. вход по Face ID, подземный паркинг на 768 мест.</description>
+<param name="Конверсия">1</param>
+<param name="Тип предложения">Продажа</param>
+<param name="Число комнат">1</param>
+<param name="Площадь">35</param>
+<param name="Адрес">ул. Мечникова, 110Г</param>
+</offer>
+<!--  16  -->
+<offer id="academia">
+<name>1-комнатная, 31 м²</name>
+<vendor>ООО «М2К»</vendor>
+<url>https://magazinnovostroek.su/academia</url>
+<price>3000000</price>
+<currencyId>RUR</currencyId>
+<categoryId>11</categoryId>
+<set-ids>16</set-ids>
+<picture>https://optim.tildacdn.com/tild3937-6666-4138-b339-363434376562/-/format/webp/807f20ed92eda83ed1a7.png</picture>
+<description>ЖК Академия. 1-комн. 31 м² в ЗЖМ. рядом парк Плевен, Западный рынок, ТЦ Золотой Вавилон. высокие потолки, застеклённые лоджии, приборы учёта в комплекте.</description>
+<param name="Конверсия">1</param>
+<param name="Тип предложения">Продажа</param>
+<param name="Число комнат">1</param>
+<param name="Площадь">31</param>
+<param name="Адрес">проспект Стачки, 196</param>
+</offer>
+<!--  17  -->
+<offer id="flora">
+<name>Студия, 23 м²</name>
+<vendor>ООО «М2К»</vendor>
+<url>https://magazinnovostroek.su/flora</url>
+<price>3300000</price>
+<currencyId>RUR</currencyId>
+<categoryId>10</categoryId>
+<set-ids>17</set-ids>
+<picture>https://optim.tildacdn.com/tild3034-6562-4664-b165-386164313832/-/resize/749x/-/format/webp/XXXL_26.webp</picture>
+<description>ЖК Флора. Студия 23 м² в жилой экосистеме на 30 га. двор-парк с фонтаном, школа и детсады, ФОК. рядом ТЦ Мега и Мега-парк. ремонт в ипотеку.</description>
+<param name="Конверсия">1</param>
+<param name="Тип предложения">Продажа</param>
+<param name="Число комнат">0</param>
+<param name="Площадь">23</param>
+<param name="Адрес">Аксайский район</param>
+</offer>
+<!--  18  -->
+<offer id="oktyabrpark">
+<name>Студия, 18 м²</name>
+<vendor>ООО «М2К»</vendor>
+<url>https://magazinnovostroek.su/oktyabr-park</url>
+<price>2200000</price>
+<currencyId>RUR</currencyId>
+<categoryId>10</categoryId>
+<set-ids>18</set-ids>
+<picture>https://optim.tildacdn.com/tild3338-6636-4139-a531-393334363334/-/format/webp/XXXL_1.webp</picture>
+<description>ЖК Октябрь парк. Студия 18 м² в концепции «город в городе». школа на 2500 мест с бассейном во дворе, 3 детсада, лапомойки, видеонаблюдение.</description>
+<param name="Конверсия">1</param>
+<param name="Тип предложения">Продажа</param>
+<param name="Число комнат">0</param>
+<param name="Площадь">18</param>
+<param name="Адрес">пер. Элеваторный</param>
+</offer>
+<!--  19  -->
+<offer id="botanika">
+<name>1-комнатная, 35 м²</name>
+<vendor>ООО «М2К»</vendor>
+<url>https://magazinnovostroek.su/botanika</url>
+<price>3600000</price>
+<currencyId>RUR</currencyId>
+<categoryId>11</categoryId>
+<set-ids>19</set-ids>
+<picture>https://static.tildacdn.com/tild6432-3538-4166-a564-396437306637/img_4492-1-scaled-e1.webp</picture>
+<description>ЖК Ботаника. 1-комн. 35 м² у Ботанического сада. эко-дизайн, панорамные виды, прогулки у реки. 325 мест в подземном паркинге, кладовые, приватные зоны отдыха.</description>
+<param name="Конверсия">1</param>
+<param name="Тип предложения">Продажа</param>
+<param name="Число комнат">1</param>
+<param name="Площадь">35</param>
+<param name="Адрес">ул. Курская</param>
+</offer>
+</offers>
+</shop>
+</yml_catalog>
