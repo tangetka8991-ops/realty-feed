@@ -166,7 +166,7 @@
 <!--  5  -->
 <offer id="frame">
 <name>1-комнатная, 34 м²</name>
-<vendor>ГК «АльфаСтройИнвест»</vendor>
+<vendor>ООО «М2К»</vendor>
 <url>https://magazinnovostroek.su/frame</url>
 <price>3200000</price>
 <currencyId>RUR</currencyId>
@@ -200,7 +200,7 @@
 <!--  7  -->
 <offer id="61kvartal">
 <name>1-комнатная, 28 м²</name>
-<vendor>ЮгСтройИнвест</vendor>
+<vendor>ООО «М2К»</vendor>
 <url>https://magazinnovostroek.su/61kvartal</url>
 <price>2900000</price>
 <currencyId>RUR</currencyId>
@@ -217,7 +217,7 @@
 <!--  8  -->
 <offer id="m2k_levoberegie_1room_32">
 <name>1-комнатная, 32 м²</name>
-<vendor>ЮгСтройИнвест</vendor>
+<vendor>ООО «М2К»</vendor>
 <url>https://magazinnovostroek.su/levoberegie</url>
 <price>3100000</price>
 <currencyId>RUR</currencyId>
@@ -234,7 +234,7 @@
 <!--  9  -->
 <offer id="tekuchev">
 <name>Студия, 18 м²</name>
-<vendor>Неометрия</vendor>
+<vendor>ООО «М2К»</vendor>
 <url>https://magazinnovostroek.su/tekuchev</url>
 <price>2400000</price>
 <currencyId>RUR</currencyId>
@@ -251,7 +251,7 @@
 <!--  10  -->
 <offer id="gray">
 <name>Студия, 22 м²</name>
-<vendor>АльфаСтройИнвест</vendor>
+<vendor>ООО «М2К»</vendor>
 <url>https://magazinnovostroek.su/gray</url>
 <price>2500000</price>
 <currencyId>RUR</currencyId>
