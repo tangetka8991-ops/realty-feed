@@ -18,80 +18,8 @@
 </categories>
 <sets>
 <set id="1">
-<name>ЖК Екатерининский. Купить квартиру в Ростове-на-Дону</name>
+<name>Купить квартиру в Ростове-на-Дону</name>
 <url>https://magazinnovostroek.su/ekaterininskiy</url>
-</set>
-<set id="2">
-<name>ЖК В центре города. Купить квартиру в Ростове-на-Дону</name>
-<url>https://magazinnovostroek.su/gkvcentre</url>
-</set>
-<set id="3">
-<name>ЖК Новый Горизонт. Купить квартиру в Ростове-на-Дону</name>
-<url>https://magazinnovostroek.su/noviygoziront</url>
-</set>
-<set id="4">
-<name>ЖК Западные Аллеи. Купить квартиру в Ростове-на-Дону</name>
-<url>https://magazinnovostroek.su/zapadnieallei</url>
-</set>
-<set id="5">
-<name>ЖК Frame. Купить квартиру в Ростове-на-Дону</name>
-<url>https://magazinnovostroek.su/frame</url>
-</set>
-<set id="6">
-<name>ЖК Состояние. Купить квартиру в Ростове-на-Дону</name>
-<url>https://magazinnovostroek.su/sostoynie</url>
-</set>
-<set id="7">
-<name>ЖК 61 Квартал. Купить квартиру в Ростове-на-Дону</name>
-<url>https://magazinnovostroek.su/61kvartal</url>
-</set>
-<set id="8">
-<name>ЖК Левобережье. Купить квартиру в Ростове-на-Дону</name>
-<url>https://magazinnovostroek.su/levoberegie</url>
-</set>
-<set id="9">
-<name>ЖК Текучев. Купить квартиру в Ростове-на-Дону</name>
-<url>https://magazinnovostroek.su/tekuchev</url>
-</set>
-<set id="10">
-<name>ЖК Gray. Купить квартиру в Ростове-на-Дону</name>
-<url>https://magazinnovostroek.su/gray</url>
-</set>
-<set id="11">
-<name>ЖК Два Капитана. Купить квартиру в Ростове-на-Дону</name>
-<url>https://magazinnovostroek.su/dvacapitana</url>
-</set>
-<set id="12">
-<name>ЖК 1799. Купить квартиру в Ростове-на-Дону</name>
-<url>https://magazinnovostroek.su/1799</url>
-</set>
-<set id="13">
-<name>ЖК Сокольники. Купить квартиру в Ростове-на-Дону</name>
-<url>https://magazinnovostroek.su/sokolniki</url>
-</set>
-<set id="14">
-<name>ЖК Собрание. Купить квартиру в Ростове-на-Дону</name>
-<url>https://magazinnovostroek.su/sobranie</url>
-</set>
-<set id="15">
-<name>ЖК Four Premiers. Купить квартиру в Ростове-на-Дону</name>
-<url>https://magazinnovostroek.su/fourpremiers</url>
-</set>
-<set id="16">
-<name>ЖК Академия. Купить квартиру в Ростове-на-Дону</name>
-<url>https://magazinnovostroek.su/academia</url>
-</set>
-<set id="17">
-<name>ЖК Флора. Купить квартиру в Ростове-на-Дону</name>
-<url>https://magazinnovostroek.su/flora</url>
-</set>
-<set id="18">
-<name>ЖК Октябрь парк. Купить квартиру в Ростове-на-Дону</name>
-<url>https://magazinnovostroek.su/oktyabr-park</url>
-</set>
-<set id="19">
-<name>ЖК Ботаника. Купить квартиру в Ростове-на-Дону</name>
-<url>https://magazinnovostroek.su/botanika</url>
 </set>
 </sets>
 <offers>
@@ -120,7 +48,7 @@
 <price>2600000</price>
 <currencyId>RUR</currencyId>
 <categoryId>10</categoryId>
-<set-ids>2</set-ids>
+<set-ids>1</set-ids>
 <picture>https://optim.tildacdn.com/tild3630-3064-4231-a230-313236386135/-/format/webp/1bce8a5d78b08f213a35.jpg</picture>
 <description>ЖК В центре города. Студия 25 м² в историческом центре. рядом парки, ТЦ Горизонт, аквапарк Н2О. ремонт в подарок, ипотека от 4.7%.</description>
 <param name="Конверсия">1</param>
@@ -137,7 +65,7 @@
 <price>3500000</price>
 <currencyId>RUR</currencyId>
 <categoryId>11</categoryId>
-<set-ids>3</set-ids>
+<set-ids>1</set-ids>
 <picture>https://optim.tildacdn.com/tild6430-3864-4533-b462-376261363837/-/format/webp/5yoqs6vqe6zwm_1cewgy.jpeg</picture>
 <description>ЖК Новый Горизонт. 1-комн. 33 м² в эко-квартале у рощи СКА. кирпичные дома, муниципальный детсад, аквапарк Н2О в 5 мин. скидка до 12 000 ₽/м².</description>
 <param name="Конверсия">1</param>
@@ -154,7 +82,7 @@
 <price>2700000</price>
 <currencyId>RUR</currencyId>
 <categoryId>10</categoryId>
-<set-ids>4</set-ids>
+<set-ids>1</set-ids>
 <picture>https://static.tildacdn.com/tild3831-6165-4638-a132-353964333632/g07emr7dd0m6u_hxnfo7.jpeg</picture>
 <description>ЖК Западные Аллеи. Студия 23 м² в бизнес-классе. двор без машин, 2 детсада, школа на территории. подземный паркинг с лифтом на этаж.</description>
 <param name="Конверсия">1</param>
@@ -171,7 +99,7 @@
 <price>3200000</price>
 <currencyId>RUR</currencyId>
 <categoryId>11</categoryId>
-<set-ids>5</set-ids>
+<set-ids>1</set-ids>
 <picture>https://static.tildacdn.com/tild3661-3934-4438-a463-326631623063/zhk-frame-zorge-11-f.jpeg</picture>
 <description>ЖК Frame. 1-комн. 34 м² у ЮФУ. каркасно-монолит, витражные окна, подземный паркинг. школа на 2500 мест для резидентов. сдача май 2025.</description>
 <param name="Конверсия">1</param>
@@ -188,7 +116,7 @@
 <price>5200000</price>
 <currencyId>RUR</currencyId>
 <categoryId>12</categoryId>
-<set-ids>6</set-ids>
+<set-ids>1</set-ids>
 <picture>https://optim.tildacdn.com/tild6363-6433-4735-a464-653465313062/-/format/webp/009.png</picture>
 <description>ЖК Состояние. Евро-2к 40 м² в бизнес-классе. умный дом, видеодомофон, дизайнерские лобби. мультиформатный проект для независимых.</description>
 <param name="Конверсия">1</param>
@@ -205,7 +133,7 @@
 <price>2900000</price>
 <currencyId>RUR</currencyId>
 <categoryId>11</categoryId>
-<set-ids>7</set-ids>
+<set-ids>1</set-ids>
 <picture>https://static.tildacdn.com/tild3539-3062-4762-b337-613862323337/_24-04-2023_20_03_28.jpg</picture>
 <description>ЖК 61 Квартал. 1-комн. 28 м² в комфорт-классе. магазины и аптеки на территории, развитая инфраструктура. практичность и уют.</description>
 <param name="Конверсия">1</param>
@@ -222,7 +150,7 @@
 <price>3100000</price>
 <currencyId>RUR</currencyId>
 <categoryId>11</categoryId>
-<set-ids>8</set-ids>
+<set-ids>1</set-ids>
 <picture>https://optim.tildacdn.com/tild3133-3263-4335-a563-663636356230/-/resize/660x/-/format/webp/photo.jpg</picture>
 <description>ЖК Левобережье. 1-комн. 32 м² у реки. ипотека 0.1% на 1-2 года, без первоначального взноса. скидка до 5000 ₽/м² на отдельные лоты.</description>
 <param name="Конверсия">1</param>
@@ -239,7 +167,7 @@
 <price>2400000</price>
 <currencyId>RUR</currencyId>
 <categoryId>10</categoryId>
-<set-ids>9</set-ids>
+<set-ids>1</set-ids>
 <picture>https://optim.tildacdn.com/tild3433-3562-4438-a136-636538333030/-/cover/500x500/center/center/-/format/webp/taif7l7bvseoptdsmp7c.jpg</picture>
 <description>ЖК Текучев. Студия 18 м² у парка Островского. монолит-каркас, 3 лифта в секции, собственная котельная. ипотека за 1 рубль.</description>
 <param name="Конверсия">1</param>
@@ -256,7 +184,7 @@
 <price>2500000</price>
 <currencyId>RUR</currencyId>
 <categoryId>10</categoryId>
-<set-ids>10</set-ids>
+<set-ids>1</set-ids>
 <picture>https://optim.tildacdn.com/tild3863-6635-4339-b331-396637343532/-/format/webp/17_1.jpg</picture>
 <description>ЖК Gray. Студия 22 м² в Левенцовском. рядом ТЦ Золотой Вавилон, парк, поликлиника. двор с ворк-аут зоной и мангальными беседками.</description>
 <param name="Конверсия">1</param>
@@ -273,7 +201,7 @@
 <price>10000000</price>
 <currencyId>RUR</currencyId>
 <categoryId>12</categoryId>
-<set-ids>11</set-ids>
+<set-ids>1</set-ids>
 <picture>https://optim.tildacdn.com/tild3133-6634-4865-b033-656161316238/-/cover/560x420/center/center/-/format/webp/zhk-dva-kapitana-fot.jpeg</picture>
 <description>ЖК Два Капитана. 2-комн. 65 м² элит-класса с видом на Дон. алюминиевое остекление, террасы, 4 лифта на 83 квартиры. отказ от газа для безопасности.</description>
 <param name="Конверсия">1</param>
@@ -290,7 +218,7 @@
 <price>5900000</price>
 <currencyId>RUR</currencyId>
 <categoryId>11</categoryId>
-<set-ids>12</set-ids>
+<set-ids>1</set-ids>
 <picture>https://optim.tildacdn.com/tild3531-6333-4539-a332-366665626230/-/resize/660x/-/format/webp/XXXL_1.webp</picture>
 <description>ЖК 1799. 1-комн. 29 м² в клубном квартале бизнес-класса на Пушкинской. приватная территория 2,5 га, умный дом, авторская отделка.</description>
 <param name="Конверсия">1</param>
@@ -307,7 +235,7 @@
 <price>3400000</price>
 <currencyId>RUR</currencyId>
 <categoryId>11</categoryId>
-<set-ids>13</set-ids>
+<set-ids>1</set-ids>
 <picture>https://optim.tildacdn.com/tild3866-3831-4361-b133-663763303636/-/format/webp/XXXL_3.webp</picture>
 <description>ЖК Сокольники. 1-комн. 37 м² в зелёном оазисе. панорамное остекление, детсад и школа на территории, ворк-аут зона. концепция «город в городе».</description>
 <param name="Конверсия">1</param>
@@ -324,7 +252,7 @@
 <price>4500000</price>
 <currencyId>RUR</currencyId>
 <categoryId>11</categoryId>
-<set-ids>14</set-ids>
+<set-ids>1</set-ids>
 <picture>https://optim.tildacdn.com/tild3866-3831-4361-b133-663763303636/-/format/webp/XXXL_3.webp</picture>
 <description>ЖК Собрание. 1-комн. 35 м² в бизнес-классе. закрытая территория, консьерж-сервис, подземный паркинг. центр города, пешая доступность к инфраструктуре.</description>
 <param name="Конверсия">1</param>
@@ -341,7 +269,7 @@
 <price>5000000</price>
 <currencyId>RUR</currencyId>
 <categoryId>11</categoryId>
-<set-ids>15</set-ids>
+<set-ids>1</set-ids>
 <picture>https://static.tildacdn.com/tild3865-3061-4664-b661-616433633263/04_1_-_Photo.jpg</picture>
 <description>ЖК Four Premiers. 1-комн. 35 м² в стиле лофт. двор без машин, фитнес-зал, кафе, обзорная терраса на крыше. вход по Face ID, подземный паркинг на 768 мест.</description>
 <param name="Конверсия">1</param>
@@ -358,7 +286,7 @@
 <price>3000000</price>
 <currencyId>RUR</currencyId>
 <categoryId>11</categoryId>
-<set-ids>16</set-ids>
+<set-ids>1</set-ids>
 <picture>https://optim.tildacdn.com/tild3937-6666-4138-b339-363434376562/-/format/webp/807f20ed92eda83ed1a7.png</picture>
 <description>ЖК Академия. 1-комн. 31 м² в ЗЖМ. рядом парк Плевен, Западный рынок, ТЦ Золотой Вавилон. высокие потолки, застеклённые лоджии, приборы учёта в комплекте.</description>
 <param name="Конверсия">1</param>
@@ -375,7 +303,7 @@
 <price>3300000</price>
 <currencyId>RUR</currencyId>
 <categoryId>10</categoryId>
-<set-ids>17</set-ids>
+<set-ids>1</set-ids>
 <picture>https://optim.tildacdn.com/tild3034-6562-4664-b165-386164313832/-/resize/749x/-/format/webp/XXXL_26.webp</picture>
 <description>ЖК Флора. Студия 23 м² в жилой экосистеме на 30 га. двор-парк с фонтаном, школа и детсады, ФОК. рядом ТЦ Мега и Мега-парк. ремонт в ипотеку.</description>
 <param name="Конверсия">1</param>
@@ -392,7 +320,7 @@
 <price>2200000</price>
 <currencyId>RUR</currencyId>
 <categoryId>10</categoryId>
-<set-ids>18</set-ids>
+<set-ids>1</set-ids>
 <picture>https://optim.tildacdn.com/tild3338-6636-4139-a531-393334363334/-/format/webp/XXXL_1.webp</picture>
 <description>ЖК Октябрь парк. Студия 18 м² в концепции «город в городе». школа на 2500 мест с бассейном во дворе, 3 детсада, лапомойки, видеонаблюдение.</description>
 <param name="Конверсия">1</param>
@@ -409,7 +337,7 @@
 <price>3600000</price>
 <currencyId>RUR</currencyId>
 <categoryId>11</categoryId>
-<set-ids>19</set-ids>
+<set-ids>1</set-ids>
 <picture>https://static.tildacdn.com/tild6432-3538-4166-a564-396437306637/img_4492-1-scaled-e1.webp</picture>
 <description>ЖК Ботаника. 1-комн. 35 м² у Ботанического сада. эко-дизайн, панорамные виды, прогулки у реки. 325 мест в подземном паркинге, кладовые, приватные зоны отдыха.</description>
 <param name="Конверсия">1</param>
